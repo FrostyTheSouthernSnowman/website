@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hi there, I'm Yosef Frost</h1>
-  <p>Welcome to my GitHub profile!</p>
+  <p>Welcome to my website</p>
+  <a href="https://medium.com/@yosi_frost">Blog </a><a href="https://github.com/FrostyTheSouthernSnowman">Github</a>
 </div>
 
 ## About Me
