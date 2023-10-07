@@ -14,11 +14,11 @@ P.S. Currently in high school and will happilly consider any opportunities for i
 
 ## My Projects
 
-Here are some of the projects I'm currently working on:
+Here are some of the project(s) I'm currently working on:
 
-- 🤖 [Project 1](link_to_project_1): Brief description of what it is and its purpose.
-- 🚀 [Project 2](link_to_project_2): A sneak peek into your second project.
-- 🌌 [Project 3](link_to_project_3): Share your third project and its goals.
+- [Tinygrad](https://github.com/tinygrad/tinygrad): Tinygrad is a small neural network library created by George Hotz and the Tinycorp with the goal of simplifying the requirements for chip makes to port neural networks to new hardware
+- I am developing a system to move ferromagnetic objects in three degrees of freedom for use in microgravity applications. (Arduino based, no moving parts)
+- I am also working on AGI, although currently still in planning phase.
 
 ## Let's Connect
 
